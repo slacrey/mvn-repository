@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.loadburn.heron</groupId>
+  <artifactId>heron-shiro</artifactId>
+  <version>1.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20131220.164157</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20131220164157</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.1-20131220.164157-1</value>
+        <updated>20131220164157</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.1-20131220.164157-1</value>
+        <updated>20131220164157</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
